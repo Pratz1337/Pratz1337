@@ -2,7 +2,7 @@
 <h3 align="center">Computer and Software Enthusiast</h3>
 # 💫 About Me:
  I’m currently learning Python,Java,Web Development<br>How to reach me prathmeshsayal8+work@gmail.com<br>
-
+<center>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-sayal) 
@@ -19,4 +19,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pratz1337&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</center>
 
