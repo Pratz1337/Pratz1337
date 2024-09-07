@@ -1,7 +1,7 @@
 <h1 >Hi there 👋! My Name is Pratz1337</h1>
 <h2>💫 About Me:</h2>
 I'm currently working on Machine Learning and related projects.<br>I'm a student at Ramaiah Institute of Technology.<br>I'm open to collaborating on interesting projects.
-You can check out my Portfolio at [Portfolio](https://portfolio-pratz1337.vercel.app/)
+You can check out my Portfolio at <a href="https://portfolio-pratz1337.vercel.app/" target="_blank">Portfolio</a>
 
 
 
