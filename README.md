@@ -303,10 +303,10 @@ Future_Vision:
 
 ### 🌍 *"Open to collaborating on impactful projects that shape the future of technology"*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmeshsayal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-pratz1337.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-sayal)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratz1337)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmesh.sayal@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmesh8sayal@gmail.com)
 
 </div>
 
