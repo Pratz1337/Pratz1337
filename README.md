@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+Cybersecurity+Specialist;%F0%9F%A4%96+AI+%26+ML+Enthusiast;%F0%9F%8C%90+Full+Stack+Developer;%F0%9F%9A%80+Innovation+Catalyst)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20Portfolio%20;)&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20Github%20;)&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
 </div>
 
