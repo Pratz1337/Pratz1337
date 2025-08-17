@@ -18,7 +18,7 @@ class PrathmeshSayal:
         self.name = "Prathmesh Sayal"
         self.role = "Cybersecurity Specialist & AI Enthusiast"
         self.education = "B.E. CSE (Cybersecurity) @ RIT Bangalore"
-        self.cgpa = 9.72
+        self.cgpa = 9.56
         self.current_focus = ["Machine Learning", "Confidential Computing", "Quantum Computing"]
         self.passion = "Building secure, intelligent solutions for tomorrow"
     
@@ -53,7 +53,7 @@ class PrathmeshSayal:
 **B.E. Computer Science Engineering (Cybersecurity Specialization)**
 *August 2023 – August 2027*
 
-<img src="https://img.shields.io/badge/CGPA-9.72%2F10.00-gold?style=for-the-badge&logo=academic&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-9.56%2F10.00-gold?style=for-the-badge&logo=academic&logoColor=white" />
 <img src="https://img.shields.io/badge/Semester-4th%20Completed-success?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 
 </div>
